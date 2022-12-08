@@ -4,11 +4,6 @@
 This repository contains programs written for the low-level programming
 track at ALX Africa.  I am currently learning C.
 
-
-## Author :
-
-* **Nwabueze Franklin (Solo)** <[NwabuezeFranklin](https://github.com/NwabuezeFranklin)>
-
 ## Acknowledgements 🌍:
 
 All work contained in this project was completed as part of the curriculum for
